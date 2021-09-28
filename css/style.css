@@ -10755,7 +10755,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #f79f24;
+    color: #00b3b3;
     outline: none !important;
 }
 
@@ -11960,7 +11960,7 @@ h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #064acb;
+    background: #00b3b3;
     opacity: 0;
     z-index: 0;
     -moz-transition: all 0.3s ease;
@@ -12091,10 +12091,10 @@ textarea.form-control {
 }
 .ftco-no-pb {
     padding-bottom: 11rem !important;
-    background-image: url('/images/newimages/mountaingreen.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/snow-quary.jpg');
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
 }
 .ftco-no-wl {
     padding-bottom: 4rem !important;
