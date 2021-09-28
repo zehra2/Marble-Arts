@@ -11657,6 +11657,10 @@ h5,
     -moz-box-shadow: 0px 10px 30px -4px rgba(0, 0, 0, 0.15);
     box-shadow: 0px 10px 30px -4px rgba(0, 0, 0, 0.15);
 }
+#iconimage {
+    background-image: url('/images/products/white.jpg');
+    background-position: center right calc(2.25rem / 4);
+}
 .services .icon .image {
     background-image: url('/images/newimages/products/apple-green-granite.jpg');
 }
